@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>About Us</title>
+   <link rel="stylesheet" href="styles.html">
+
+</head>
+<body>
+
+   <header>
+
+    <h1 style='text-align:center;'>Contact Us</h1>
+
+    <nav>
+
+     <a href="index.html">Home</a> |
+
+     <a href="about.html">About</a> |
+
+     <a href="contact.html">Contact</a>
+
+    </nav>
+
+   </header>
+
+
+   <main>
+
+    <p><h3>We're a private dealership which opened business in 2019.<div>The founder and CEO of this dealership, Anthony Kealeboga has a real passion for luxury vechiles and this inspired him to open a dealership. We've made thousands of sales and we're ready to make a deal with you, whenever you're ready.</div></h3></p>
+   </main>
+</html>
